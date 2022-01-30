@@ -4,7 +4,7 @@
     <td>
       <div align=center>
         <img width="850" height="1" /><br />
-        <strong>Zach is in your extended network</strong><br />
+        <strong>Zachary Flower is in your extended network</strong><br />
         <img width="850" height="1" />
       </div>
     </td>
@@ -12,7 +12,7 @@
 </table>
 
 <sub>
-  <strong>Zach's Latest Blog Entry</strong> [<strong><a href="https://flower.codes">Subscribe to this Blog</a></strong>]
+  <strong>Zachary Flower's Latest Blog Entry</strong> [<strong><a href="https://flower.codes">Subscribe to this Blog</a></strong>]
 </sub>
 <br />
 <sub>
@@ -40,12 +40,60 @@
 </sub>
 <br /><br />
 
+<sub>
 <img src='assets/header-blurbs.svg' />
-
+</sub>
+<sub>
 <img src='assets/subhead-about.svg' />
 
-<br />
-
-<sub>
 Test
+</sub>
+<sub>
+<img src='assets/subhead-whom.svg' />
+
+Test
+</sub>
+<sub>
+<img src='assets/header-friends.svg' />
+<h5>Zachary Flower has 53 friends.</h5>
+</sub>
+<sub>
+<table border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+<td>
+<div align="center"><strong><a href="#">Tom</a></strong></div>
+<img src="assets/tom.jpg" width="215" />
+</td>
+</tr>
+</table>
 </sub>
