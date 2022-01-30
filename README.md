@@ -3,9 +3,9 @@
   <tr>
     <td>
       <div align=center>
-        <img width="882" height="1" /><br />
+        <img width="500" height="1" /><br />
         <strong>Zach is in your extended network</strong><br />
-        <img width="882" height="1" />
+        <img width="500" height="1" />
       </div>
     </td>
   </tr>
@@ -38,7 +38,9 @@
 <sub>
   [<strong><a href="https://flower.codes">View All Blog Entries</a></strong>]
 </sub>
-<br />
+<br /><br />
+
+<img src='assets/header-blurbs.svg' />
 
 Zach's Blurbs
 
@@ -55,4 +57,4 @@ If you want a tutorial on HTML/designing your page, check this out: Mack!!
 Note: If you try to view my friends list you won't see all 11,000,000 people. This was bogging down the system, so we made it only show 40 people. So you wont be able to see the friends on my list.
 
 Who I'd like to meet:
-I'd like to meet people who educate, inspire or entertain me... I have a few close friends I've known all my life. I'd like to make more. 
+I'd like to meet people who educate, inspire or entertain me... I have a few close friends I've known all my life. I'd like to make more.
