@@ -49,7 +49,32 @@
 </sub>
 <br />
 <sub>
-Hi there. I'm <strong>Zach</strong>. Welcome to my profile. Obviously I'm experimenting with that classic <strong>MySpace</strong> look (within the limitations of <strong>GitHub's</strong> markdown renderer). Feel free to drop me a line or open a PR if you have any ideas on how to improve the attempt.
+Hi there. I'm <strong>Zach</strong>. Welcome to my profile. Obviously I'm experimenting with that classic <strong>MySpace</strong> look (within the limitations of <strong>GitHub's</strong> markdown renderer). Like a lot of developers my age, tweaking the look and feel on a MySpace page was one of my earliest exposures to HTML and JavaScript, so this felt like an appropriate homage to that time. Feel free to drop me a line or open a PR if you have any ideas on how to improve the attempt.
+</sub>
+<br />
+<br />
+<sub>
+A few things I want to do at some point:
+</sub>
+<br />
+<sub>
+• Automatically update the recent blog post list
+</sub>
+<br />
+<sub>
+• Update the "friend count" number
+</sub>
+<br />
+<sub>
+• Render the "friend count" number as an SVG so it can be the proper color (red)
+</sub>
+<br />
+<sub>
+• Figure out a realistic comments system
+</sub>
+<br />
+<sub>
+• Kill the GitHub table for the friends list and use an SVG to better match the style
 </sub>
 <br />
 <sub>
