@@ -100,18 +100,18 @@ I have a pretty big list of nerd heroes that I'd love to meet someday, but after
 <sub>
 <div align="center">
 <strong><a href="https://github.com/zachflower">Tom</a></strong>
+</div>
 <br />
 <img src="assets/tom.jpg" width="190" />
-</div>
 </sub>
 </td>
 <td>
 <sub>
 <div align="center">
 <strong><a href="https://github.com/zachflower">Clippy</a></strong>
+</div>
 <br />
 <img src="assets/clippy.gif" width="190" />
-</div>
 </sub>
 </td>
 <td>
