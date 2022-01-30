@@ -43,57 +43,49 @@
 <sub>
 <img src='assets/header-blurbs.svg' />
 </sub>
+<br />
 <sub>
 <img src='assets/subhead-about.svg' />
-
+</sub>
+<br />
+<sub>
 Test
 </sub>
+<br />
 <sub>
 <img src='assets/subhead-whom.svg' />
-
+</sub>
+<br />
+<sub>
 Test
 </sub>
+<br />
 <sub>
 <img src='assets/header-friends.svg' />
-<h5>Zachary Flower has 53 friends.</h5>
 </sub>
+<br />
 <sub>
+<strong>Zachary Flower has 53 friends.</strong>
+</sub>
+<br />
+<br />
 <table border=0 cellspacing=0 cellpadding=0>
 <tr>
 <td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
+<sub>
+<div align="center"><strong><a href="https://github.com/zachflower">Tom</a></strong></div>
+<br />
+<img src="assets/tom.jpg" width="190" />
+</sub>
 </td>
 <td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
+  <img width="190" height="1" />
 </td>
 <td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
+  <img width="190" height="1" />
 </td>
 <td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
-</td>
-</tr>
-<tr>
-<td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
-</td>
-<td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
-</td>
-<td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
-</td>
-<td>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
-<img src="assets/tom.jpg" width="215" />
+  <img width="190" height="1" />
 </td>
 </tr>
 </table>
-</sub>
