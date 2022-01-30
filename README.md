@@ -79,9 +79,11 @@ Test
 </sub>
 </td>
 <td>
+<sub>
 <div align="center"><strong><a href="https://github.com/zachflower">Clippy</a></strong></div>
 <br />
 <img src="assets/clippy.gif" width="190" />
+</sub>
 </td>
 <td>
   <img width="190" height="1" />
