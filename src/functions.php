@@ -36,16 +36,16 @@ function env(string $key, $default = null): mixed
  */
 function __(string $string): void
 {
-    echo('<sub>' . PHP_EOL);
-
+    $string = trim($string);
     $string = explode("\n", $string);
 
     foreach ( $string as $line ) {
-        echo($line . PHP_EOL);
-        echo('<br />' . PHP_EOL);
+        echo('<sub>' . PHP_EOL);
+        echo ($line . PHP_EOL);
+        echo('</sub>' . PHP_EOL);
+        echo ('<br />' . PHP_EOL);
     }
 
-    echo('</sub>' . PHP_EOL);
     return;
 }
 
