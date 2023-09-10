@@ -17,23 +17,23 @@
 <br />
 
 <sub>
-Self-Care Happens Offline (<strong><a href="">view more</a></strong>)
+Self-Care Happens Offline (<strong><a href="http://flower.codes/2023/08/14/self-care-happens-offline.html">view more</a></strong>)
 <br />
 </sub>
 <sub>
-Artificial Poetry (<strong><a href="">view more</a></strong>)
+Artificial Poetry (<strong><a href="http://flower.codes/2023/01/27/ai-poetry.html">view more</a></strong>)
 <br />
 </sub>
 <sub>
-Goodbye, Gopher (<strong><a href="">view more</a></strong>)
+Goodbye, Gopher (<strong><a href="http://flower.codes/2023/01/15/goodbye-gopher.html">view more</a></strong>)
 <br />
 </sub>
 <sub>
-YA’22R (Yet Another 2022 Retrospective) (<strong><a href="">view more</a></strong>)
+YA’22R (Yet Another 2022 Retrospective) (<strong><a href="http://flower.codes/2023/01/14/ya22r.html">view more</a></strong>)
 <br />
 </sub>
 <sub>
-There’s No Reason to Pirate Music Anymore (<strong><a href="">view more</a></strong>)
+There’s No Reason to Pirate Music Anymore (<strong><a href="http://flower.codes/2022/12/11/pirate-music.html">view more</a></strong>)
 <br />
 </sub>
 
