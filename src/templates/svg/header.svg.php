@@ -1,0 +1,13 @@
+<?= '<?xml version="1.0" encoding="UTF-8" standalone="no"?>' ?>
+<svg width="880" height="30"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+
+  <g fill="#ffcc99" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)">
+    <path vector-effect="none" fill-rule="evenodd" d="M8,8 L880,8 L880,28 L0,28 L0,8"/>
+  </g>
+
+  <g fill="#ff6600" fill-opacity="1" stroke="#ff6600" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+    <text fill="#ff6600" fill-opacity="1" stroke="none" xml:space="preserve" x="20" y="23" font-family="Verdana" font-size="12" font-weight="700" font-style="normal"><?= $yield ?></text>
+  </g>
+</svg>

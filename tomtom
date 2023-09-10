@@ -1,0 +1,52 @@
+#!/usr/bin/env php
+<?php
+
+// load dependencies
+require_once __DIR__ . '/src/functions.php';
+
+// parse command line arguments
+if ( $argc < 2 ) {
+    echo("Usage: {$argv[0]} <github_username>" . PHP_EOL);
+    exit(0);
+}
+
+try {
+    $profile = getGitHubProfile($argv[1]);
+} catch ( Exception $e ) {
+    echo("Error encountered on build: " . $e->getMessage() . PHP_EOL);
+    exit(1);
+}
+
+$params = [
+    '__config' => [
+        'profile' => [
+            'name' => $profile->name,
+            'links' => [
+                'blog' => isUrl($profile->blog) ? $profile->blog : $profile->html_url,
+                'rss' => null,
+            ],
+            'about' => $profile->bio,
+            'meet' => null,
+            'friends' => [
+                'count' => $profile->followers,
+                'favorites' => [],
+            ],
+        ]
+    ],
+];
+
+// read in config.yml and deep merge with $params['__config']
+$config = yaml_parse_file(__DIR__ . '/config.yml');
+$params['__config'] = array_replace_recursive($params['__config'], $config);
+
+// render the README.md template
+$output = render(__DIR__ . '/src/templates/README.md.php', $params);
+
+// if debug flag print the rendered template
+if ( in_array('--debug', $argv) ) {
+    echo ($output);
+    exit(0);
+}
+
+// write the rendered template to README.md
+file_put_contents(__DIR__ . '/README.md', $output);
