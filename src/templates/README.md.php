@@ -43,7 +43,7 @@ if ( isUrl($__config['profile']['links']['rss']) ) {
 <?php
 $counter = 0;
 foreach ( $__config['profile']['friends']['favorites'] as $friend ) {
-    if ( $counter % 2 === 0 ) {
+    if ( $counter % 4 === 0 ) {
 ?>
     <tr>
 <?php
@@ -54,7 +54,7 @@ foreach ( $__config['profile']['friends']['favorites'] as $friend ) {
             <img src="<?= $friend['image'] ?>" width="190" />
         </td>
 <?php
-    if ( $counter % 2 === 1 ) {
+    if ( $counter % 4 === 3 ) {
 ?>
     </tr>
 <?php
