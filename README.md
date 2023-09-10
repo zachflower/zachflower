@@ -78,7 +78,11 @@ A few things I want to do at some point:
 </sub>
 <br />
 <sub>
-• Kill the GitHub table for the friends list and use an SVG to better match the style
+• Add the "View All of My Friends" link
+</sub>
+<br />
+<sub>
+• Find a way to render the "Top 8" friends list in a way that better matches the original design
 </sub>
 <br />
 <br />
