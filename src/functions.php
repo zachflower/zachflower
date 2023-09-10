@@ -106,7 +106,7 @@ function getFeedEntries(string $url, int $limit = 5): array
     foreach ($rss->entry as $item) {
         $items[] = [
             'title' => (string) $item->title,
-            'link' => (string) $item->link,
+            'link' => (string) $item->link['href'],
         ];
     }
 
