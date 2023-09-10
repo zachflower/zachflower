@@ -99,14 +99,14 @@ I have a pretty big list of nerd heroes that I'd love to meet someday, but after
     <tr>
         <td>
             <sub>
-<div align="center"><strong><a href="#">Tom</a></strong></div>
+<div align="center"><strong><a href="https://web.archive.org/web/20050407064112/http://www.myspace.com:80/tom">Tom</a></strong></div>
 </sub>
 <br />
             <img src="public/img/tom.jpg" width="190" />
         </td>
         <td>
             <sub>
-<div align="center"><strong><a href="#">Clippy</a></strong></div>
+<div align="center"><strong><a href="https://en.wikipedia.org/wiki/Office_Assistant">Clippy</a></strong></div>
 </sub>
 <br />
             <img src="public/img/clippy.gif" width="190" />
