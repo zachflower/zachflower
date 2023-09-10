@@ -90,11 +90,7 @@ I have a pretty big list of nerd heroes that I'd love to meet someday, but after
 <br />
 <img src="public/svg/header-friends.svg" />
 <sub>
-<strong>Zachary Flower has <img src="public/svg/rednum-friends.svg" />
-</sub>
-<br />
-<sub>
- friends.</strong>
+<strong>Zachary Flower has <img src="public/svg/rednum-friends.svg" /> friends.</strong>
 </sub>
 <br />
 <br />
