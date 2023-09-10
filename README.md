@@ -104,7 +104,6 @@ I have a pretty big list of nerd heroes that I'd love to meet someday, but after
 <br />
             <img src="public/img/tom.jpg" width="190" />
         </td>
-    <tr>
         <td>
             <sub>
 <div align="center"><strong><a href="#">Clippy</a></strong></div>

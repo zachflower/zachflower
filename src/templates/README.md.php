@@ -58,8 +58,9 @@ foreach ( $__config['profile']['friends']['favorites'] as $friend ) {
 ?>
     </tr>
 <?php
-        $counter++;
     }
+
+    $counter++;
 }
 ?>
 </table>
