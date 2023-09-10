@@ -51,7 +51,7 @@ foreach ( $__config['profile']['friends']['favorites'] as $friend ) {
 ?>
         <td>
             <?= __('<div align="center"><strong><a href="' . $friend['url'] . '">' . $friend['name'] . '</a></strong></div>') ?>
-            <img src="<?= $friend['image'] ?>" width="190" />
+            <a href="<?= $friend['url'] ?>"><img src="<?= $friend['image'] ?>" width="190" /></a>
         </td>
 <?php
     if ( $counter % 4 === 3 ) {
