@@ -19,6 +19,8 @@ jobs:
         ./tomtom ${GITHUB_REPOSITORY%/*}
     
     - name: Commit changes
+      id: commit
+      shell: bash
       run: |
         git config --local user.email "action[bot]@github.com"
         git config --local user.name "github-actions[bot]"
@@ -30,7 +32,7 @@ jobs:
         fi
     
     - name: Push changes
-      if: steps.build.outputs.push == 'true'
+      if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
