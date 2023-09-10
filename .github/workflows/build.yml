@@ -27,12 +27,15 @@ jobs:
 
         git add .
 
-        if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "[bot] rebuild readme and assets [skip ci]"
+        if [ -z "$(git status --porcelain)" ]; then
+            echo "::set-output name=push::false"
+        else
+          git commit -m "[bot] rebuild readme and assets [skip ci]"
+          echo "::set-output name=push::true"
         fi
     
     - name: Push changes
       if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
