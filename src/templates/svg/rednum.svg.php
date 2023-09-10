@@ -1,5 +1,5 @@
 <?= '<?xml version="1.0" encoding="UTF-8" standalone="no"?>' ?>
-<svg width="<?= strlen($yield) * 10 ?>" height="15"
+<svg width="<?= strlen($yield) * 5 ?>" height="15"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
 
