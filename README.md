@@ -62,15 +62,15 @@ A few things I want to do at some point:
 </sub>
 <br />
 <sub>
-• Automatically update the recent blog post list
+• <del>Automatically update the recent blog post list</del>
 </sub>
 <br />
 <sub>
-• Update the "friend count" number
+• <del>Update the "friend count" number</del>
 </sub>
 <br />
 <sub>
-• Render the "friend count" number as an SVG so it can be the proper color (red)
+• <del>Render the "friend count" number as an SVG so it can be the proper color (red)</del>
 </sub>
 <br />
 <sub>
