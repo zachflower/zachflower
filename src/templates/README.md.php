@@ -29,23 +29,13 @@ if ( isUrl($__config['profile']['links']['rss']) ) {
 <br />
 
 <?= renderSVGToFile('header-blurbs', 'header.svg.php', ['yield' => $__config['profile']['name'] . '\'s Blurbs']) ?>
-<br />
-
 <?= renderSVGToFile('subhead-about', 'subhead.svg.php', ['yield' => 'About me:']) ?>
-<br />
-
 <?= __($__config['profile']['about']) ?>
 <br />
-
 <?= renderSVGToFile('subhead-whom', 'subhead.svg.php', ['yield' => 'Whom I\'d like to meet:']) ?>
-<br />
-
 <?= __($__config['profile']['meet']) ?>
 <br />
-
 <?= renderSVGToFile('header-friends', 'header.svg.php', ['yield' => $__config['profile']['name'] . '\'s Friend Space']) ?>
-<br />
-
 <?=__('<strong>' . $__config['profile']['name'] . '</strong> has ' . $__config['profile']['friends']['count'] . ' ' . pluralize($__config['profile']['friends']['count'], 'friend') . '.') ?>
 <br />
 
@@ -68,6 +58,7 @@ foreach ( $__config['profile']['friends']['favorites'] as $friend ) {
 ?>
     </tr>
 <?php
+        $counter++;
     }
 }
 ?>
