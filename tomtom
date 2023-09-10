@@ -50,3 +50,6 @@ if ( in_array('--debug', $argv) ) {
 
 // write the rendered template to README.md
 file_put_contents(__DIR__ . '/README.md', $output);
+
+echo('README.md successfully built!' . PHP_EOL);
+exit(0);
