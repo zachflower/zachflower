@@ -1,0 +1,39 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run build script
+      run: |
+        chmod +x tomtom
+        ./tomtom ${GITHUB_REPOSITORY%/*}
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "action[bot]@github.com"
+        git config --local user.name "github-actions[bot]"
+
+        git add .
+
+        if [ -z "$(git status --porcelain)" ]; then
+            echo "::set-output name=push::false"
+        else
+            git commit -m "[bot] rebuild readme and assets [skip ci]"
+            echo "::set-output name=push::true"
+        fi
+    
+    - name: Push changes
+      if: steps.build.outputs.push == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
