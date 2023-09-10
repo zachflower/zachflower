@@ -3,9 +3,9 @@
     <tr>
         <td>
             <div align=center>
-                <img width="850" height="1" /><br />
+                <img width="844" height="1" /><br />
                 <strong><?= $__config['profile']['name'] ?> is in your extended network</strong><br />
-                <img width="850" height="1" />
+                <img width="844" height="1" />
             </div>
         </td>
     </tr>
