@@ -16,8 +16,8 @@ profile:
   friends:
     favorites:
       - name: Tom
-        url: '#'
+        url: 'https://web.archive.org/web/20050407064112/http://www.myspace.com:80/tom'
         image: 'public/img/tom.jpg'
       - name: Clippy
-        url: '#'
+        url: 'https://en.wikipedia.org/wiki/Office_Assistant'
         image: 'public/img/clippy.gif'
