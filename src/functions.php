@@ -154,5 +154,5 @@ function renderSVGToFile(string $destination, string $filename, array $data = []
     file_put_contents(__DIR__ . '/../' . $destination, $image);
 
     // return an img tag pointing to the generated image
-    return '<img src="' . $destination . '" />';
+    return '<img src="' . $destination . '" />' . PHP_EOL;
 }
