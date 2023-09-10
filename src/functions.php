@@ -137,7 +137,7 @@ function render(string $template, array $data = []): string
  * @param string $template
  * @return string
  */
-function renderSVGToFile(string $destination, string $filename, array $data = []): string
+function renderSVGToFile(string $destination, string $filename, array $data = [], bool $newline = true): string
 {
     $filename = __DIR__ . '/templates/svg/' . $filename;
 
@@ -154,5 +154,5 @@ function renderSVGToFile(string $destination, string $filename, array $data = []
     file_put_contents(__DIR__ . '/../' . $destination, $image);
 
     // return an img tag pointing to the generated image
-    return '<img src="' . $destination . '" />' . PHP_EOL;
+    return '<img src="' . $destination . '" />' . ($newline ? PHP_EOL : '');
 }
