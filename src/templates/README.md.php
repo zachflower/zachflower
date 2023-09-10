@@ -36,7 +36,7 @@ if ( isUrl($__config['profile']['links']['rss']) ) {
 <?= __($__config['profile']['meet']) ?>
 <br />
 <?= renderSVGToFile('header-friends', 'header.svg.php', ['yield' => $__config['profile']['name'] . '\'s Friend Space']) ?>
-<?=__('<strong>' . $__config['profile']['name'] . '</strong> has ' . renderSVGToFile('rednum-friends', 'rednum.svg.php', ['yield' => $__config['profile']['friends']['count']]) . ' ' . pluralize($__config['profile']['friends']['count'], 'friend') . '.') ?>
+<?=__('<strong>' . $__config['profile']['name'] . ' has ' . renderSVGToFile('rednum-friends', 'rednum.svg.php', ['yield' => $__config['profile']['friends']['count']]) . ' ' . pluralize($__config['profile']['friends']['count'], 'friend') . '.</strong>') ?>
 <br />
 
 <table border=0 cellspacing=0 cellpadding=0>
