@@ -11,7 +11,8 @@ profile:
     • <del>Update the "friend count" number</del>
     • <del>Render the "friend count" number as an SVG so it can be the proper color (red)</del>
     • Figure out a realistic comments system
-    • Kill the GitHub table for the friends list and use an SVG to better match the style
+    • Add the "View All of My Friends" link
+    • Find a way to render the "Top 8" friends list in a way that better matches the original design
   meet: I have a pretty big list of nerd heroes that I'd love to meet someday, but after taking a trip down memory lane to put this profile together, I'd love to meet AOL's "You've Got Mail" guy. Preferably over the phone. Don't want to ruin the magic.
   friends:
     favorites:
