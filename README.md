@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+README.ZACH (<strong><a href="http://flower.codes/2023/10/04/readme.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Self-Care Happens Offline (<strong><a href="http://flower.codes/2023/08/14/self-care-happens-offline.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Goodbye, Gopher (<strong><a href="http://flower.codes/2023/01/15/goodbye-gopher.
 <br />
 <sub>
 YA’22R (Yet Another 2022 Retrospective) (<strong><a href="http://flower.codes/2023/01/14/ya22r.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-There’s No Reason to Pirate Music Anymore (<strong><a href="http://flower.codes/2022/12/11/pirate-music.html">view more</a></strong>)
 </sub>
 <br />
 
