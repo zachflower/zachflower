@@ -29,11 +29,11 @@ Self-Care Happens Offline (<strong><a href="http://flower.codes/2023/08/14/self-
 </sub>
 <br />
 <sub>
-Artificial Poetry (<strong><a href="http://flower.codes/2023/01/27/ai-poetry.html">view more</a></strong>)
+Common CWE Finds: Reachable Assertion (<strong><a href="http://flower.codes/2023/07/25/reachable-assertions.html">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Goodbye, Gopher (<strong><a href="http://flower.codes/2023/01/15/goodbye-gopher.html">view more</a></strong>)
+Artificial Poetry (<strong><a href="http://flower.codes/2023/01/27/ai-poetry.html">view more</a></strong>)
 </sub>
 <br />
 
