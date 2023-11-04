@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Happy Halloween from 1998 (<strong><a href="http://flower.codes/2023/11/03/happy-halloween.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Will It Render? (<strong><a href="http://flower.codes/2023/10/05/will-it-render.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Self-Care Happens Offline (<strong><a href="http://flower.codes/2023/08/14/self-
 <br />
 <sub>
 Common CWE Finds: Reachable Assertion (<strong><a href="http://flower.codes/2023/07/25/reachable-assertions.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Artificial Poetry (<strong><a href="http://flower.codes/2023/01/27/ai-poetry.html">view more</a></strong>)
 </sub>
 <br />
 
