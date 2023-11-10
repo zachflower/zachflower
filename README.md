@@ -17,6 +17,14 @@
 <br />
 
 <sub>
+100 Days to Offload: Part Deux (<strong><a href="http://flower.codes/2023/11/09/100-days-to-offload-part-deux.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+Screen Time Is for Chumps (<strong><a href="http://flower.codes/2023/11/08/screen-time.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Happy Halloween from 1998 (<strong><a href="http://flower.codes/2023/11/03/happy-halloween.html">view more</a></strong>)
 </sub>
 <br />
@@ -26,14 +34,6 @@ Will It Render? (<strong><a href="http://flower.codes/2023/10/05/will-it-render.
 <br />
 <sub>
 README.ZACH (<strong><a href="http://flower.codes/2023/10/04/readme.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Self-Care Happens Offline (<strong><a href="http://flower.codes/2023/08/14/self-care-happens-offline.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Common CWE Finds: Reachable Assertion (<strong><a href="http://flower.codes/2023/07/25/reachable-assertions.html">view more</a></strong>)
 </sub>
 <br />
 
