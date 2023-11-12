@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Jekyll Is Good Enough (<strong><a href="http://flower.codes/2023/11/11/jekyll-is-good-enough.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Default Apps (<strong><a href="http://flower.codes/2023/11/10/default-apps.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Screen Time Is for Chumps (<strong><a href="http://flower.codes/2023/11/08/scree
 <br />
 <sub>
 Happy Halloween from 1998 (<strong><a href="http://flower.codes/2023/11/03/happy-halloween.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Will It Render? (<strong><a href="http://flower.codes/2023/10/05/will-it-render.html">view more</a></strong>)
 </sub>
 <br />
 
