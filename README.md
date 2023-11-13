@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Over-Engineering a #100DaysToOffload Counter in Jekyll (<strong><a href="http://flower.codes/2023/11/12/over-engineered-jekyll-counter.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Jekyll Is Good Enough (<strong><a href="http://flower.codes/2023/11/11/jekyll-is-good-enough.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Default Apps (<strong><a href="http://flower.codes/2023/11/10/default-apps.html"
 <br />
 <sub>
 Screen Time Is for Chumps (<strong><a href="http://flower.codes/2023/11/08/screen-time.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Happy Halloween from 1998 (<strong><a href="http://flower.codes/2023/11/03/happy-halloween.html">view more</a></strong>)
 </sub>
 <br />
 
