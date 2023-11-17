@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Automation for Automation’s Sake (<strong><a href="http://flower.codes/2023/11/16/automation.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Over-Engineering a #100DaysToOffload Counter in Jekyll (<strong><a href="http://flower.codes/2023/11/12/over-engineered-jekyll-counter.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Default Apps (<strong><a href="http://flower.codes/2023/11/10/default-apps.html"
 <br />
 <sub>
 100 Days to Offload: Part Deux (<strong><a href="http://flower.codes/2023/11/09/100-days-to-offload-part-deux.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Screen Time Is for Chumps (<strong><a href="http://flower.codes/2023/11/08/screen-time.html">view more</a></strong>)
 </sub>
 <br />
 
