@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Sunday Reboot — December 10, 2023 (<strong><a href="http://flower.codes/2023/12/10/sunday-reboot.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Sunday Reboot — November 26, 2023 (<strong><a href="http://flower.codes/2023/11/26/sunday-reboot.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Over-Engineering a #100DaysToOffload Counter in Jekyll (<strong><a href="http://
 <br />
 <sub>
 Jekyll Is Good Enough (<strong><a href="http://flower.codes/2023/11/11/jekyll-is-good-enough.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Default Apps (<strong><a href="http://flower.codes/2023/11/10/default-apps.html">view more</a></strong>)
 </sub>
 <br />
 
