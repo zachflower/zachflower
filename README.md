@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Let’s Get Digital (<strong><a href="http://flower.codes/2023/12/20/lets-get-digital.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Sunday Reboot — December 17, 2023 (<strong><a href="http://flower.codes/2023/12/17/sunday-reboot.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Sunday Reboot — November 26, 2023 (<strong><a href="http://flower.codes/2023/1
 <br />
 <sub>
 Automation for Automation’s Sake (<strong><a href="http://flower.codes/2023/11/16/automation.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Over-Engineering a #100DaysToOffload Counter in Jekyll (<strong><a href="http://flower.codes/2023/11/12/over-engineered-jekyll-counter.html">view more</a></strong>)
 </sub>
 <br />
 
