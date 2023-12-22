@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Work-Life Imbalance (<strong><a href="http://flower.codes/2023/12/21/work-life-imbalance.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Let’s Get Digital (<strong><a href="http://flower.codes/2023/12/20/lets-get-digital.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Sunday Reboot — December 10, 2023 (<strong><a href="http://flower.codes/2023/1
 <br />
 <sub>
 Sunday Reboot — November 26, 2023 (<strong><a href="http://flower.codes/2023/11/26/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Automation for Automation’s Sake (<strong><a href="http://flower.codes/2023/11/16/automation.html">view more</a></strong>)
 </sub>
 <br />
 
