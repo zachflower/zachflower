@@ -17,6 +17,14 @@
 <br />
 
 <sub>
+Sunday Reboot — December 24, 2023 (<strong><a href="http://flower.codes/2023/12/24/sunday-reboot.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+Portable Ergonomics (<strong><a href="http://flower.codes/2023/12/24/portable-ergonomics.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Work-Life Imbalance (<strong><a href="http://flower.codes/2023/12/21/work-life-imbalance.html">view more</a></strong>)
 </sub>
 <br />
@@ -26,14 +34,6 @@ Let’s Get Digital (<strong><a href="http://flower.codes/2023/12/20/lets-get-di
 <br />
 <sub>
 Sunday Reboot — December 17, 2023 (<strong><a href="http://flower.codes/2023/12/17/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Sunday Reboot — December 10, 2023 (<strong><a href="http://flower.codes/2023/12/10/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Sunday Reboot — November 26, 2023 (<strong><a href="http://flower.codes/2023/11/26/sunday-reboot.html">view more</a></strong>)
 </sub>
 <br />
 
