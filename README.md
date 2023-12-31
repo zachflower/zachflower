@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+A Polyglot Hello World Has Appeared! (<strong><a href="http://flower.codes/2023/12/30/polyglot-hello-world.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Adopt-a-Nerd (<strong><a href="http://flower.codes/2023/12/26/adopt-a-nerd.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Portable Ergonomics (<strong><a href="http://flower.codes/2023/12/24/portable-er
 <br />
 <sub>
 Work-Life Imbalance (<strong><a href="http://flower.codes/2023/12/21/work-life-imbalance.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Let’s Get Digital (<strong><a href="http://flower.codes/2023/12/20/lets-get-digital.html">view more</a></strong>)
 </sub>
 <br />
 
