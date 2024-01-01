@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Now With More Plaintext! (<strong><a href="http://flower.codes/2023/12/31/now-with-more-plaintext.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 A Polyglot Hello World Has Appeared! (<strong><a href="http://flower.codes/2023/12/30/polyglot-hello-world.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Sunday Reboot — December 24, 2023 (<strong><a href="http://flower.codes/2023/1
 <br />
 <sub>
 Portable Ergonomics (<strong><a href="http://flower.codes/2023/12/24/portable-ergonomics.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Work-Life Imbalance (<strong><a href="http://flower.codes/2023/12/21/work-life-imbalance.html">view more</a></strong>)
 </sub>
 <br />
 
