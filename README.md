@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Sun…Monday Reboot — New Year Edition (<strong><a href="http://flower.codes/2024/01/01/monday-reboot.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Now With More Plaintext! (<strong><a href="http://flower.codes/2023/12/31/now-with-more-plaintext.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Adopt-a-Nerd (<strong><a href="http://flower.codes/2023/12/26/adopt-a-nerd.html"
 <br />
 <sub>
 Sunday Reboot — December 24, 2023 (<strong><a href="http://flower.codes/2023/12/24/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Portable Ergonomics (<strong><a href="http://flower.codes/2023/12/24/portable-ergonomics.html">view more</a></strong>)
 </sub>
 <br />
 
