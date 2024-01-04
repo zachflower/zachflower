@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+AlphaSmart 3000 (<strong><a href="http://flower.codes/2024/01/03/alphasmart.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Return to The Gopherverse (<strong><a href="http://flower.codes/2024/01/02/return-to-the-gopherverse.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Now With More Plaintext! (<strong><a href="http://flower.codes/2023/12/31/now-wi
 <br />
 <sub>
 A Polyglot Hello World Has Appeared! (<strong><a href="http://flower.codes/2023/12/30/polyglot-hello-world.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Adopt-a-Nerd (<strong><a href="http://flower.codes/2023/12/26/adopt-a-nerd.html">view more</a></strong>)
 </sub>
 <br />
 
