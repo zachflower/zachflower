@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Four, Oh, Four… (<strong><a href="http://flower.codes/2024/01/13/four-oh-four.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Sunday Reboot — January 7, 2024 (<strong><a href="http://flower.codes/2024/01/07/sunday-reboot.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Return to The Gopherverse (<strong><a href="http://flower.codes/2024/01/02/retur
 <br />
 <sub>
 Sun…Monday Reboot — New Year Edition (<strong><a href="http://flower.codes/2024/01/01/monday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Now With More Plaintext! (<strong><a href="http://flower.codes/2023/12/31/now-with-more-plaintext.html">view more</a></strong>)
 </sub>
 <br />
 
