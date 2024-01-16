@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Sun…Monday Reboot — January 15, 2024 (<strong><a href="http://flower.codes/2024/01/15/monday-reboot.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Four, Oh, Four… (<strong><a href="http://flower.codes/2024/01/13/four-oh-four.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ AlphaSmart 3000 (<strong><a href="http://flower.codes/2024/01/03/alphasmart.html
 <br />
 <sub>
 Return to The Gopherverse (<strong><a href="http://flower.codes/2024/01/02/return-to-the-gopherverse.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Sun…Monday Reboot — New Year Edition (<strong><a href="http://flower.codes/2024/01/01/monday-reboot.html">view more</a></strong>)
 </sub>
 <br />
 
