@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Stop Trying to Sell Me Shit (<strong><a href="http://flower.codes/2024/01/17/stop-selling-me.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Authentically Speaking (<strong><a href="http://flower.codes/2024/01/16/authentically-speaking.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Four, Oh, Four… (<strong><a href="http://flower.codes/2024/01/13/four-oh-four.
 <br />
 <sub>
 Sunday Reboot — January 7, 2024 (<strong><a href="http://flower.codes/2024/01/07/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-AlphaSmart 3000 (<strong><a href="http://flower.codes/2024/01/03/alphasmart.html">view more</a></strong>)
 </sub>
 <br />
 
