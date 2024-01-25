@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Post-Mortem Incident Report Do’s and Don’ts (<strong><a href="http://flower.codes/2024/01/23/postmortem-tips.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Techmento Mori (<strong><a href="http://flower.codes/2024/01/22/techmento-mori.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ How to Dockerize EnvyMUD (<strong><a href="http://flower.codes/2024/01/20/docker
 <br />
 <sub>
 The Old Web Is a Slowly Decaying Corpse (<strong><a href="http://flower.codes/2024/01/18/death-of-the-old-web.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Stop Trying to Sell Me Shit (<strong><a href="http://flower.codes/2024/01/17/stop-selling-me.html">view more</a></strong>)
 </sub>
 <br />
 
