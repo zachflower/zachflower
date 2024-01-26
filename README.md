@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+CI/CD/CV: Emphasizing Continuous Visibility (<strong><a href="http://flower.codes/2024/01/25/continuous-visibility.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Post-Mortem Incident Report Do’s and Don’ts (<strong><a href="http://flower.codes/2024/01/23/postmortem-tips.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Sunday Reboot — January 21, 2024 (<strong><a href="http://flower.codes/2024/01
 <br />
 <sub>
 How to Dockerize EnvyMUD (<strong><a href="http://flower.codes/2024/01/20/dockerize-envymud.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-The Old Web Is a Slowly Decaying Corpse (<strong><a href="http://flower.codes/2024/01/18/death-of-the-old-web.html">view more</a></strong>)
 </sub>
 <br />
 
