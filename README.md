@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+How Cloud9 Kept Me on Track after a Hardware Failure (<strong><a href="http://flower.codes/2024/01/26/cloud9.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 CI/CD/CV: Emphasizing Continuous Visibility (<strong><a href="http://flower.codes/2024/01/25/continuous-visibility.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Techmento Mori (<strong><a href="http://flower.codes/2024/01/22/techmento-mori.h
 <br />
 <sub>
 Sunday Reboot — January 21, 2024 (<strong><a href="http://flower.codes/2024/01/21/sunday-reboot.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-How to Dockerize EnvyMUD (<strong><a href="http://flower.codes/2024/01/20/dockerize-envymud.html">view more</a></strong>)
 </sub>
 <br />
 
