@@ -17,6 +17,14 @@
 <br />
 
 <sub>
+How I Read (<strong><a href="http://flower.codes/2024/01/29/how-i-read.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+Sunday Reboot — January 28, 2024 (<strong><a href="http://flower.codes/2024/01/28/sunday-reboot.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 How Cloud9 Kept Me on Track after a Hardware Failure (<strong><a href="http://flower.codes/2024/01/26/cloud9.html">view more</a></strong>)
 </sub>
 <br />
@@ -26,14 +34,6 @@ CI/CD/CV: Emphasizing Continuous Visibility (<strong><a href="http://flower.code
 <br />
 <sub>
 Post-Mortem Incident Report Do’s and Don’ts (<strong><a href="http://flower.codes/2024/01/23/postmortem-tips.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Techmento Mori (<strong><a href="http://flower.codes/2024/01/22/techmento-mori.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Sunday Reboot — January 21, 2024 (<strong><a href="http://flower.codes/2024/01/21/sunday-reboot.html">view more</a></strong>)
 </sub>
 <br />
 
