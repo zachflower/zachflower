@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Working with Serverless Log Data (<strong><a href="http://flower.codes/2024/01/30/serverless-log-data.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 How I Read (<strong><a href="http://flower.codes/2024/01/29/how-i-read.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ How Cloud9 Kept Me on Track after a Hardware Failure (<strong><a href="http://fl
 <br />
 <sub>
 CI/CD/CV: Emphasizing Continuous Visibility (<strong><a href="http://flower.codes/2024/01/25/continuous-visibility.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Post-Mortem Incident Report Do’s and Don’ts (<strong><a href="http://flower.codes/2024/01/23/postmortem-tips.html">view more</a></strong>)
 </sub>
 <br />
 
