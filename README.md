@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Repositories Are at the Center of Development and Production (<strong><a href="http://flower.codes/2024/02/02/repositories.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Working with Serverless Log Data (<strong><a href="http://flower.codes/2024/01/30/serverless-log-data.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Sunday Reboot — January 28, 2024 (<strong><a href="http://flower.codes/2024/01
 <br />
 <sub>
 How Cloud9 Kept Me on Track after a Hardware Failure (<strong><a href="http://flower.codes/2024/01/26/cloud9.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-CI/CD/CV: Emphasizing Continuous Visibility (<strong><a href="http://flower.codes/2024/01/25/continuous-visibility.html">view more</a></strong>)
 </sub>
 <br />
 
