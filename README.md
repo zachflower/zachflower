@@ -17,6 +17,14 @@
 <br />
 
 <sub>
+Just Not a “Math” Person (<strong><a href="http://flower.codes/2024/02/29/not-a-math-person.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+“For,” Not “To” (<strong><a href="http://flower.codes/2024/02/29/for-not-to.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Eloquent Interactions Redux (<strong><a href="http://flower.codes/2024/02/20/eloquent-interactions-redux.html">view more</a></strong>)
 </sub>
 <br />
@@ -26,14 +34,6 @@ Pulse Check — February 19, 2024 (<strong><a href="http://flower.codes/2024/02/
 <br />
 <sub>
 Repositories Are at the Center of Development and Production (<strong><a href="http://flower.codes/2024/02/02/repositories.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Working with Serverless Log Data (<strong><a href="http://flower.codes/2024/01/30/serverless-log-data.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-How I Read (<strong><a href="http://flower.codes/2024/01/29/how-i-read.html">view more</a></strong>)
 </sub>
 <br />
 
