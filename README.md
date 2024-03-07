@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Making Better Use of the `Accept` Header (<strong><a href="http://flower.codes/2024/03/06/accept-it.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Cylinder 3 Misfire Detected (<strong><a href="http://flower.codes/2024/03/03/p0303.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Just Not a “Math” Person (<strong><a href="http://flower.codes/2024/02/29/no
 <br />
 <sub>
 Eloquent Interactions Redux (<strong><a href="http://flower.codes/2024/02/20/eloquent-interactions-redux.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Pulse Check — February 19, 2024 (<strong><a href="http://flower.codes/2024/02/19/pulse-check.html">view more</a></strong>)
 </sub>
 <br />
 
