@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Saved by the Extended Warranty (<strong><a href="http://flower.codes/2024/03/10/extended-warranty.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Making Better Use of the `Accept` Header (<strong><a href="http://flower.codes/2024/03/06/accept-it.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Just Not a “Math” Person (<strong><a href="http://flower.codes/2024/02/29/no
 <br />
 <sub>
 “For,” Not “To” (<strong><a href="http://flower.codes/2024/02/29/for-not-to.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Eloquent Interactions Redux (<strong><a href="http://flower.codes/2024/02/20/eloquent-interactions-redux.html">view more</a></strong>)
 </sub>
 <br />
 
