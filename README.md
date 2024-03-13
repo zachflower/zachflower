@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Batten Down the Hatches (<strong><a href="http://flower.codes/2024/03/12/batten-down-the-hatches.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Spring Forward (<strong><a href="http://flower.codes/2024/03/11/spring-forward.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Making Better Use of the `Accept` Header (<strong><a href="http://flower.codes/2
 <br />
 <sub>
 Cylinder 3 Misfire Detected (<strong><a href="http://flower.codes/2024/03/03/p0303.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Just Not a “Math” Person (<strong><a href="http://flower.codes/2024/02/29/not-a-math-person.html">view more</a></strong>)
 </sub>
 <br />
 
