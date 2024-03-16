@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Buy Me a Coffee… or Don’t (<strong><a href="http://flower.codes/2024/03/15/buy-me-a-coffee.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Batten Down the Hatches (<strong><a href="http://flower.codes/2024/03/12/batten-down-the-hatches.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Saved by the Extended Warranty (<strong><a href="http://flower.codes/2024/03/10/
 <br />
 <sub>
 Making Better Use of the `Accept` Header (<strong><a href="http://flower.codes/2024/03/06/accept-it.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Cylinder 3 Misfire Detected (<strong><a href="http://flower.codes/2024/03/03/p0303.html">view more</a></strong>)
 </sub>
 <br />
 
