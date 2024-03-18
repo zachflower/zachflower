@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+LepreCAUGHT! (<strong><a href="http://flower.codes/2024/03/17/leprecaught.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Buy Me a Coffee… or Don’t (<strong><a href="http://flower.codes/2024/03/15/buy-me-a-coffee.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Spring Forward (<strong><a href="http://flower.codes/2024/03/11/spring-forward.h
 <br />
 <sub>
 Saved by the Extended Warranty (<strong><a href="http://flower.codes/2024/03/10/extended-warranty.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Making Better Use of the `Accept` Header (<strong><a href="http://flower.codes/2024/03/06/accept-it.html">view more</a></strong>)
 </sub>
 <br />
 
