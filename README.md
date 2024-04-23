@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Splitting Personalities (<strong><a href="http://flower.codes/2024/04/22/splitting-personalities.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 LepreCAUGHT! (<strong><a href="http://flower.codes/2024/03/17/leprecaught.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Batten Down the Hatches (<strong><a href="http://flower.codes/2024/03/12/batten-
 <br />
 <sub>
 Spring Forward (<strong><a href="http://flower.codes/2024/03/11/spring-forward.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Saved by the Extended Warranty (<strong><a href="http://flower.codes/2024/03/10/extended-warranty.html">view more</a></strong>)
 </sub>
 <br />
 
