@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+To Newsletter, or Not to Newsletter (<strong><a href="http://flower.codes/2024/04/25/to-newsletter-or-not-to-newsletter.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Push Off (<strong><a href="http://flower.codes/2024/04/24/push-off.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Splitting Personalities (<strong><a href="http://flower.codes/2024/04/22/splitti
 <br />
 <sub>
 LepreCAUGHT! (<strong><a href="http://flower.codes/2024/03/17/leprecaught.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Buy Me a Coffee… or Don’t (<strong><a href="http://flower.codes/2024/03/15/buy-me-a-coffee.html">view more</a></strong>)
 </sub>
 <br />
 
