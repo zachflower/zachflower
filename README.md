@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Batteries Not Included (<strong><a href="http://flower.codes/2024/05/14/batteries-not-included.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 To Newsletter, or Not to Newsletter (<strong><a href="http://flower.codes/2024/04/25/to-newsletter-or-not-to-newsletter.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Turn of the Century (<strong><a href="http://flower.codes/2024/04/23/turn-of-the
 <br />
 <sub>
 Splitting Personalities (<strong><a href="http://flower.codes/2024/04/22/splitting-personalities.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-LepreCAUGHT! (<strong><a href="http://flower.codes/2024/03/17/leprecaught.html">view more</a></strong>)
 </sub>
 <br />
 
