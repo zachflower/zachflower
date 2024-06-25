@@ -17,23 +17,23 @@
 <br />
 
 <sub>
+Default Apps — June 2024 (<strong><a href="http://flower.codes/2024/06/24/default-apps.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+You Are Not Your Impostor Syndrome (<strong><a href="http://flower.codes/2024/06/23/you-are-not-your-impostor-syndrome.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+15 Pieces of Advice That Will Make You a Better Leader (<strong><a href="http://flower.codes/2024/06/21/15-pieces-of-advice-that-will-make-you-a-better-leader.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
+Stop Second-Screening at Work (<strong><a href="http://flower.codes/2024/06/19/stop-second-screening-at-work.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Shameless (<strong><a href="http://flower.codes/2024/06/16/shameless.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-The Great Outdoors (<strong><a href="http://flower.codes/2024/05/16/the-great-outdoors.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Doggone It (<strong><a href="http://flower.codes/2024/05/15/doggone-it.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Batteries Not Included (<strong><a href="http://flower.codes/2024/05/14/batteries-not-included.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-To Newsletter, or Not to Newsletter (<strong><a href="http://flower.codes/2024/04/25/to-newsletter-or-not-to-newsletter.html">view more</a></strong>)
 </sub>
 <br />
 
