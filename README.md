@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Back to Basics (<strong><a href="http://flower.codes/2024/07/10/back-to-basics.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Default Apps — June 2024 (<strong><a href="http://flower.codes/2024/06/24/default-apps.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ You Are Not Your Impostor Syndrome (<strong><a href="http://flower.codes/2024/06
 <br />
 <sub>
 Stop Second-Screening at Work (<strong><a href="http://flower.codes/2024/06/19/stop-second-screening-at-work.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Shameless (<strong><a href="http://flower.codes/2024/06/16/shameless.html">view more</a></strong>)
 </sub>
 <br />
 
