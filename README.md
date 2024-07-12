@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Batteries Redux (<strong><a href="http://flower.codes/2024/07/11/batteries-redux.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Back to Basics (<strong><a href="http://flower.codes/2024/07/10/back-to-basics.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ You Are Not Your Impostor Syndrome (<strong><a href="http://flower.codes/2024/06
 <br />
 <sub>
 15 Pieces of Advice That Will Make You a Better Leader (<strong><a href="http://flower.codes/2024/06/21/15-pieces-of-advice-that-will-make-you-a-better-leader.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Stop Second-Screening at Work (<strong><a href="http://flower.codes/2024/06/19/stop-second-screening-at-work.html">view more</a></strong>)
 </sub>
 <br />
 
