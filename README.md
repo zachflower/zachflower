@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+My Journey into Computing (<strong><a href="http://flower.codes/2024/07/12/my-journey-into-computing.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Batteries Redux (<strong><a href="http://flower.codes/2024/07/11/batteries-redux.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Default Apps — June 2024 (<strong><a href="http://flower.codes/2024/06/24/defa
 <br />
 <sub>
 You Are Not Your Impostor Syndrome (<strong><a href="http://flower.codes/2024/06/23/you-are-not-your-impostor-syndrome.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-15 Pieces of Advice That Will Make You a Better Leader (<strong><a href="http://flower.codes/2024/06/21/15-pieces-of-advice-that-will-make-you-a-better-leader.html">view more</a></strong>)
 </sub>
 <br />
 
