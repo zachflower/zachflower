@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+I Just Quit My Job to Become a Teacher (<strong><a href="http://flower.codes/2024/07/19/quitting-to-teach.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 My Journey into Computing (<strong><a href="http://flower.codes/2024/07/12/my-journey-into-computing.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Back to Basics (<strong><a href="http://flower.codes/2024/07/10/back-to-basics.h
 <br />
 <sub>
 Default Apps — June 2024 (<strong><a href="http://flower.codes/2024/06/24/default-apps.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-You Are Not Your Impostor Syndrome (<strong><a href="http://flower.codes/2024/06/23/you-are-not-your-impostor-syndrome.html">view more</a></strong>)
 </sub>
 <br />
 
