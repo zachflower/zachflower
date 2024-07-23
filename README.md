@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Duplicating a Database Record in Laravel (<strong><a href="http://flower.codes/2024/07/22/duplicating-a-database-record-in-laravel.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 I Just Quit My Job to Become a Teacher (<strong><a href="http://flower.codes/2024/07/19/quitting-to-teach.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Batteries Redux (<strong><a href="http://flower.codes/2024/07/11/batteries-redux
 <br />
 <sub>
 Back to Basics (<strong><a href="http://flower.codes/2024/07/10/back-to-basics.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Default Apps — June 2024 (<strong><a href="http://flower.codes/2024/06/24/default-apps.html">view more</a></strong>)
 </sub>
 <br />
 
