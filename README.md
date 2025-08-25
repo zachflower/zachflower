@@ -3,9 +3,9 @@
     <tr>
         <td>
             <div align=center>
-                <img width="844" height="1" /><br />
+                <img width="840" height="1" /><br />
                 <strong>Zachary Flower is in your extended network</strong><br />
-                <img width="844" height="1" />
+                <img width="840" height="1" />
             </div>
         </td>
     </tr>
