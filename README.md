@@ -3,9 +3,9 @@
     <tr>
         <td>
             <div align=center>
-                <img width="840" height="1" /><br />
+                <img width="844" height="1" /><br />
                 <strong>Zachary Flower is in your extended network</strong><br />
-                <img width="840" height="1" />
+                <img width="844" height="1" />
             </div>
         </td>
     </tr>
@@ -17,23 +17,23 @@
 <br />
 
 <sub>
-Duplicating a Database Record in Laravel (<strong><a href="http://flower.codes/2024/07/22/duplicating-a-database-record-in-laravel.html">view more</a></strong>)
+Give a Problem. Grow a Programmer. (<strong><a href="/2025/07/25/give-a-problem">view more</a></strong>)
 </sub>
 <br />
 <sub>
-I Just Quit My Job to Become a Teacher (<strong><a href="http://flower.codes/2024/07/19/quitting-to-teach.html">view more</a></strong>)
+Back to the Future (<strong><a href="/2025/05/05/back-to-the-future">view more</a></strong>)
 </sub>
 <br />
 <sub>
-My Journey into Computing (<strong><a href="http://flower.codes/2024/07/12/my-journey-into-computing.html">view more</a></strong>)
+Whelp… (<strong><a href="/2025/03/03/whelp">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Batteries Redux (<strong><a href="http://flower.codes/2024/07/11/batteries-redux.html">view more</a></strong>)
+Hello, Is It Me You’re Looking For? (<strong><a href="/2024/11/09/hello-again">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Back to Basics (<strong><a href="http://flower.codes/2024/07/10/back-to-basics.html">view more</a></strong>)
+Duplicating a Database Record in Laravel (<strong><a href="/2024/07/22/duplicating-a-database-record-in-laravel">view more</a></strong>)
 </sub>
 <br />
 
