@@ -17,23 +17,23 @@
 <br />
 
 <sub>
-Give a Problem. Grow a Programmer. (<strong><a href="/2025/07/25/give-a-problem">view more</a></strong>)
+Give a Problem. Grow a Programmer. (<strong><a href="http://flower.codes/2025/07/25/give-a-problem.html">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Back to the Future (<strong><a href="/2025/05/05/back-to-the-future">view more</a></strong>)
+Back to the Future (<strong><a href="http://flower.codes/2025/05/05/back-to-the-future.html">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Whelp… (<strong><a href="/2025/03/03/whelp">view more</a></strong>)
+Whelp… (<strong><a href="http://flower.codes/2025/03/03/whelp.html">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Hello, Is It Me You’re Looking For? (<strong><a href="/2024/11/09/hello-again">view more</a></strong>)
+Hello, Is It Me You’re Looking For? (<strong><a href="http://flower.codes/2024/11/09/hello-again.html">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Duplicating a Database Record in Laravel (<strong><a href="/2024/07/22/duplicating-a-database-record-in-laravel">view more</a></strong>)
+Duplicating a Database Record in Laravel (<strong><a href="http://flower.codes/2024/07/22/duplicating-a-database-record-in-laravel.html">view more</a></strong>)
 </sub>
 <br />
 
