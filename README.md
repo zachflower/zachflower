@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Boundaries, Amirite? (<strong><a href="http://flower.codes/2025/09/22/boundaries.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Give a Problem. Grow a Programmer. (<strong><a href="http://flower.codes/2025/07/25/give-a-problem.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Whelp… (<strong><a href="http://flower.codes/2025/03/03/whelp.html">view more<
 <br />
 <sub>
 Hello, Is It Me You’re Looking For? (<strong><a href="http://flower.codes/2024/11/09/hello-again.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Duplicating a Database Record in Laravel (<strong><a href="http://flower.codes/2024/07/22/duplicating-a-database-record-in-laravel.html">view more</a></strong>)
 </sub>
 <br />
 
