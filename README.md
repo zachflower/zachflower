@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Hacker High School (<strong><a href="http://flower.codes/2025/10/17/hacker-high-school.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Ignore All Previous Instructions (<strong><a href="http://flower.codes/2025/10/05/ignore-all-previous-instructions.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Give a Problem. Grow a Programmer. (<strong><a href="http://flower.codes/2025/07
 <br />
 <sub>
 Back to the Future (<strong><a href="http://flower.codes/2025/05/05/back-to-the-future.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Whelp… (<strong><a href="http://flower.codes/2025/03/03/whelp.html">view more</a></strong>)
 </sub>
 <br />
 
