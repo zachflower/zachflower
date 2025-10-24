@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Spinning up an Onion Mirror is Stupid Easy (<strong><a href="http://flower.codes/2025/10/23/onion-mirror.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Maybe We Should Stop Banning Books? (<strong><a href="http://flower.codes/2025/10/20/banned-books.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Ignore All Previous Instructions (<strong><a href="http://flower.codes/2025/10/0
 <br />
 <sub>
 Boundaries, Amirite? (<strong><a href="http://flower.codes/2025/09/22/boundaries.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Give a Problem. Grow a Programmer. (<strong><a href="http://flower.codes/2025/07/25/give-a-problem.html">view more</a></strong>)
 </sub>
 <br />
 
