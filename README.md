@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Code It Forward (<strong><a href="http://flower.codes/2025/11/17/how-to-volunteer.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Spinning up an Onion Mirror is Stupid Easy (<strong><a href="http://flower.codes/2025/10/23/onion-mirror.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Hacker High School (<strong><a href="http://flower.codes/2025/10/17/hacker-high-
 <br />
 <sub>
 Ignore All Previous Instructions (<strong><a href="http://flower.codes/2025/10/05/ignore-all-previous-instructions.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Boundaries, Amirite? (<strong><a href="http://flower.codes/2025/09/22/boundaries.html">view more</a></strong>)
 </sub>
 <br />
 
