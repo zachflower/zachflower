@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Vibe Mapping (<strong><a href="http://flower.codes/2026/01/15/antigravity.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Elseless (<strong><a href="http://flower.codes/2026/01/04/elseless.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Spinning up an Onion Mirror is Stupid Easy (<strong><a href="http://flower.codes
 <br />
 <sub>
 Maybe We Should Stop Banning Books? (<strong><a href="http://flower.codes/2025/10/20/banned-books.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Hacker High School (<strong><a href="http://flower.codes/2025/10/17/hacker-high-school.html">view more</a></strong>)
 </sub>
 <br />
 
