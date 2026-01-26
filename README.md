@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Go Read a Book (<strong><a href="http://flower.codes/2026/01/24/go-read-a-book.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Vibe Mapping (<strong><a href="http://flower.codes/2026/01/15/antigravity.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Code It Forward (<strong><a href="http://flower.codes/2025/11/17/how-to-voluntee
 <br />
 <sub>
 Spinning up an Onion Mirror is Stupid Easy (<strong><a href="http://flower.codes/2025/10/23/onion-mirror.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Maybe We Should Stop Banning Books? (<strong><a href="http://flower.codes/2025/10/20/banned-books.html">view more</a></strong>)
 </sub>
 <br />
 
