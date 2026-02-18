@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Blocking IP Addresses with Caddy (<strong><a href="http://flower.codes/2026/02/17/fice.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Go Read a Book (<strong><a href="http://flower.codes/2026/01/24/go-read-a-book.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Elseless (<strong><a href="http://flower.codes/2026/01/04/elseless.html">view mo
 <br />
 <sub>
 Code It Forward (<strong><a href="http://flower.codes/2025/11/17/how-to-volunteer.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Spinning up an Onion Mirror is Stupid Easy (<strong><a href="http://flower.codes/2025/10/23/onion-mirror.html">view more</a></strong>)
 </sub>
 <br />
 
