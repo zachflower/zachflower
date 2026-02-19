@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+Eval++ (<strong><a href="http://flower.codes/2026/02/18/eval-plus-plus.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Blocking IP Addresses with Caddy (<strong><a href="http://flower.codes/2026/02/17/fice.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Vibe Mapping (<strong><a href="http://flower.codes/2026/01/15/antigravity.html">
 <br />
 <sub>
 Elseless (<strong><a href="http://flower.codes/2026/01/04/elseless.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Code It Forward (<strong><a href="http://flower.codes/2025/11/17/how-to-volunteer.html">view more</a></strong>)
 </sub>
 <br />
 
