@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+CodeReader (<strong><a href="http://flower.codes/2026/02/24/codereader.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 Eval++ (<strong><a href="http://flower.codes/2026/02/18/eval-plus-plus.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Go Read a Book (<strong><a href="http://flower.codes/2026/01/24/go-read-a-book.h
 <br />
 <sub>
 Vibe Mapping (<strong><a href="http://flower.codes/2026/01/15/antigravity.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Elseless (<strong><a href="http://flower.codes/2026/01/04/elseless.html">view more</a></strong>)
 </sub>
 <br />
 
