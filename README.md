@@ -17,6 +17,10 @@
 <br />
 
 <sub>
+The Next Chapter (<strong><a href="http://flower.codes/2026/05/21/the-next-chapter.html">view more</a></strong>)
+</sub>
+<br />
+<sub>
 CodeReader (<strong><a href="http://flower.codes/2026/02/24/codereader.html">view more</a></strong>)
 </sub>
 <br />
@@ -30,10 +34,6 @@ Blocking IP Addresses with Caddy (<strong><a href="http://flower.codes/2026/02/1
 <br />
 <sub>
 Go Read a Book (<strong><a href="http://flower.codes/2026/01/24/go-read-a-book.html">view more</a></strong>)
-</sub>
-<br />
-<sub>
-Vibe Mapping (<strong><a href="http://flower.codes/2026/01/15/antigravity.html">view more</a></strong>)
 </sub>
 <br />
 
