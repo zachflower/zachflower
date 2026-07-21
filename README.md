@@ -17,23 +17,23 @@
 <br />
 
 <sub>
-The Next Chapter (<strong><a href="http://flower.codes/2026/05/21/the-next-chapter">view more</a></strong>)
+The Next Chapter (<strong><a href="https://flower.codes/2026/05/21/the-next-chapter">view more</a></strong>)
 </sub>
 <br />
 <sub>
-CodeReader (<strong><a href="http://flower.codes/2026/02/24/codereader">view more</a></strong>)
+CodeReader (<strong><a href="https://flower.codes/2026/02/24/codereader">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Eval++ (<strong><a href="http://flower.codes/2026/02/18/eval-plus-plus">view more</a></strong>)
+Eval++ (<strong><a href="https://flower.codes/2026/02/18/eval-plus-plus">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Blocking IP Addresses with Caddy (<strong><a href="http://flower.codes/2026/02/17/fice">view more</a></strong>)
+Blocking IP Addresses with Caddy (<strong><a href="https://flower.codes/2026/02/17/fice">view more</a></strong>)
 </sub>
 <br />
 <sub>
-Go Read a Book (<strong><a href="http://flower.codes/2026/01/24/go-read-a-book">view more</a></strong>)
+Go Read a Book (<strong><a href="https://flower.codes/2026/01/24/go-read-a-book">view more</a></strong>)
 </sub>
 <br />
 
